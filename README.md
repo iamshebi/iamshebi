@@ -14,9 +14,7 @@
 
 ## 📊 GitHub Stats
 
-![iamshebi's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamshebi&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamshebi&layout=compact&theme=tokyonight)
+![iamshebi's contribution graph](https://ghchart.rshah.org/409ba5/iamshebi)
 
 ## 📫 Reach me
 
