@@ -6,7 +6,26 @@
 
 <img src="https://komarev.com/ghpvc/?username=iamshebi&color=8B0000&style=flat-square&label=Souls+Visited" /> <img src="https://img.shields.io/badge/Status-Accepting%20Quests-8B0000?style=flat-square&logo=target&logoColor=white" /> <img src="https://img.shields.io/badge/Lair-Dubai%20GMT%2B4-000000?style=flat-square&logo=googlemaps&logoColor=FF3131" /> <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwttr.in%2FDubai%3Fformat%3Dj1&label=Desert%20Heat&query=%24.current_condition%5B0%5D.temp_C&suffix=%C2%B0C&color=FF0000&style=flat-square" />
 
+<img src="https://img.shields.io/badge/☠️_REPOS_FORGED-60-000000?style=for-the-badge&labelColor=8B0000" /> <img src="https://img.shields.io/badge/⚔️_LIVE_DOMAINS-10%2B-000000?style=for-the-badge&labelColor=8B0000" /> <img src="https://img.shields.io/badge/🩸_DEPLOYS-DAILY-000000?style=for-the-badge&labelColor=8B0000" /> <img src="https://img.shields.io/badge/🧠_AI_LAB-ACTIVE-000000?style=for-the-badge&labelColor=8B0000" />
+
 </div>
+
+```
+        ______
+     .-"      "-.
+    /            \
+   |              |
+   |,  .-.  .-.  ,|
+   | )(_o/  \o_)( |
+   |/     /\     \|
+   (_     ^^     _)
+    \__|IIIIII|__/
+     | \IIIIII/ |
+     \          /
+      '--------'
+
+  [ ACCESS GRANTED — WELCOME TO THE REALM ]
+```
 
 ```bash
 root@shebi:~# whoami
@@ -21,6 +40,8 @@ root@shebi:~# access ./iamshebi.xyz
 > ⚠ WARNING: entering a 3D playground. Press Play. Drive. Survive.
 ```
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:FF0000,100:000000&height=3" width="100%"/>
+
 ## ⚔️ Blades I've Forged — Live in Production
 
 | Blade | What it slays | Live |
@@ -30,6 +51,8 @@ root@shebi:~# access ./iamshebi.xyz
 | 🗡️ **Elite Rentals Dubai** | Yacht sales catalogue & PDF brochure machinery | [sales.eliterentalsdubai.com](https://sales.eliterentalsdubai.com) |
 | ⚰️ **GRAAF Productions** | Cinematic property-film studio, Phuket | [phuketpropertyfilms.com](https://www.phuketpropertyfilms.com) |
 | 🔐 **Elyon Codes Admin** | Secure code-vault admin (TypeScript) | [codes.elyondubai.com](https://codes.elyondubai.com) |
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:FF0000,100:000000&height=3" width="100%"/>
 
 ## 🗝️ The Crypt — 60 Repositories Sealed Within
 
@@ -43,6 +66,8 @@ root@shebi:~# access ./iamshebi.xyz
 
 *Most of my work is client-owned and sealed. The live blades above are the proof.*
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:FF0000,100:000000&height=3" width="100%"/>
+
 ## ☠️ The Arsenal
 
 <div align="center">
@@ -50,6 +75,8 @@ root@shebi:~# access ./iamshebi.xyz
 <img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,nodejs,php,mysql,postgres,mongodb,firebase,redis,tailwind,threejs,django,flask,fastapi,pytorch,tensorflow,opencv,docker,aws,azure,vercel,git,linux,figma,kotlin&perline=14&theme=dark" />
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:FF0000,100:000000&height=3" width="100%"/>
 
 ## ⚰️ The Graveyard Shift
 
@@ -61,11 +88,15 @@ root@shebi:~# access ./iamshebi.xyz
 
 </div>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:FF0000,100:000000&height=3" width="100%"/>
+
 ## 🕸️ Summon Me
 
 <div align="center">
 
 <a href="https://www.iamshebi.xyz"><img src="https://img.shields.io/badge/☠️_Enter_the_Realm-iamshebi.xyz-8B0000?style=for-the-badge&logo=googlechrome&logoColor=white" /></a> <a href="https://www.linkedin.com/in/iamshebi"><img src="https://img.shields.io/badge/LinkedIn-iamshebi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:shabeeboman7@gmail.com"><img src="https://img.shields.io/badge/Raise_the_Dead-Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://dev.to/iamshebi"><img src="https://img.shields.io/badge/DEV.to-iamshebi-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /></a>
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=18&duration=2400&pause=800&color=8B0000&center=true&vCenter=true&width=520&lines=%3E+initiating+shutdown...;%3E+just+kidding.+I+never+sleep.+%E2%98%A0%EF%B8%8F;%3E+fork+me.+star+me.+summon+me." alt="outro" />
 
 <img src="https://capsule-render.vercel.app/api?type=venom&height=120&color=0:FF0000,50:8B0000,100:000000&section=footer" width="100%"/>
 
