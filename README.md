@@ -55,10 +55,6 @@ root@shebi:~# access ./iamshebi.xyz
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=iamshebi&theme=darkhub&no-frame=true&row=1&column=7" width="100%" />
-
-<img src="https://streak-stats.demolab.com/?user=iamshebi&background=0D1117&border=8B0000&ring=FF0000&fire=FF3131&currStreakNum=FF3131&sideNums=B30000&currStreakLabel=FF3131&sideLabels=8B0000&dates=666666" height="170" />
-
 <img src="https://ghchart.rshah.org/b30000/iamshebi" width="100%" alt="blood contribution graph" />
 
 <img src="https://raw.githubusercontent.com/iamshebi/iamshebi/output/github-contribution-grid-snake-dark.svg" width="100%" alt="the serpent devours my commits" />
